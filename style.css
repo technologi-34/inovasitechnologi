@@ -82,7 +82,7 @@ nav {
 }
 
 .hero-content h2 {
-    font-size: 60px;
+    font-size: 45px;
     font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 0;
@@ -92,7 +92,7 @@ nav {
 }
 
 .hero-content p {
-    font-size: 22px;
+    font-size: 17px;
     margin-bottom: 40px;
     opacity: 0;
     animation: fadeIn 1s forwards 1s;
