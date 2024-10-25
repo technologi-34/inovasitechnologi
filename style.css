@@ -71,7 +71,7 @@ nav {
     color: black;
 }
 .hero {
-    height: 100vh;
+    height: 70vh;
     background: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('tech-bg.jpg') no-repeat center center/cover;
     display: flex;
     justify-content: center;
@@ -83,7 +83,7 @@ nav {
 
 .hero-content h2 {
     font-size: 45px;
-    font-weight: 600;
+    font-weight: 550;
     text-transform: uppercase;
     margin-bottom: 0;
     margin-top: 0;
