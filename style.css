@@ -10,47 +10,12 @@ body {
     color: #fff;
     background-color: #0d0d0d;
 }
-
 header {
-    background-color: #151515;
-    padding: 1rem 0;
-    position: sticky;
-    top: 0;
-    width: 100%;
-    z-index: 100;
-}
-
-nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
+    padding: 20px;
 }
-
-
-.nav-links {
-    list-style: none;
-    display: flex;
-    text-align: center;
-}
-
-.nav-links li {
-    margin-left: 2rem;
-}
-
-.nav-links a {
-    text-decoration: none;
-    color: var(--text-color);
-    font-weight: bold;
-    transition: color 0.3s;
-}
-
-.nav-links a:hover {
-    color: var(--accent-color);
-}
-
 .alert {
     padding: 20px;
     background-color: red;
